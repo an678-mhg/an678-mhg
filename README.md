@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-### I am Nguyen Quoc An
+### About me
 I'm An, an information technology
 student, passionate about programming, especially web,
 my dream is to become a front-end developer.
