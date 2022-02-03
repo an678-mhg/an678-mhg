@@ -15,7 +15,7 @@ my dream is to become a front-end developer.
 
 ### My skill
 - FE: 
- HTML, CSS, JavaScript, Typescript, ReactJs, Bootstrap
+ HTML, CSS (SCSS), JavaScript, Typescript, ReactJs, Bootstrap
 - BE: 
  Firebase
 
