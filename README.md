@@ -13,6 +13,12 @@ my dream is to become a front-end developer.
 - online: [https://an678-mhg.github.io/cv-nguyen_quoc_an/](https://an678-mhg.github.io/cv-nguyen_quoc_an/)
 - pdf: [https://drive.google.com/file/d/1-XDUk_aNZ1IR96keaeYZohuP2fnGSWMX/view?usp=drive](https://drive.google.com/file/d/1-XDUk_aNZ1IR96keaeYZohuP2fnGSWMX/view?usp=drive)
 
+### My skill
+- FE: 
+ HTML, CSS, JavaScript, Typescript, ReactJs, Bootstrap
+- BE: 
+ Firebase
+
 
 
 
