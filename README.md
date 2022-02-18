@@ -23,7 +23,8 @@ my dream is to become a front-end developer.
 
 ### Git status:
 
-<img src="https://github-readme-stats.vercel.app/api?username=an678-mhg&theme=tokyonight&show_icons=true&count_private=true"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=an678-mhg&theme=tokyonight&layout=&langs_count=5">
+<img src="https://github-readme-stats.vercel.app/api?username=an678-mhg&theme=tokyonight&show_icons=true&count_private=true">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=an678-mhg&theme=tokyonight&layout=&langs_count=5">
 
 
 
