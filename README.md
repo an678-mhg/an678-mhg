@@ -14,7 +14,6 @@ my dream is to become a front-end developer.
 - pdf: [https://drive.google.com/file/d/1-XDUk_aNZ1IR96keaeYZohuP2fnGSWMX/view?usp=drive](https://drive.google.com/file/d/1-XDUk_aNZ1IR96keaeYZohuP2fnGSWMX/view?usp=drive)
 
 ### Skill
-- Languages & frameworks
 
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"><img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"><img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"><img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"><img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white">
 
