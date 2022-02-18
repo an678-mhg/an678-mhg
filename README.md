@@ -14,10 +14,9 @@ my dream is to become a front-end developer.
 - pdf: [https://drive.google.com/file/d/1-XDUk_aNZ1IR96keaeYZohuP2fnGSWMX/view?usp=drive](https://drive.google.com/file/d/1-XDUk_aNZ1IR96keaeYZohuP2fnGSWMX/view?usp=drive)
 
 ### My skill
-- FE: 
- HTML, CSS (SCSS), JavaScript, Typescript, ReactJs, Bootstrap
-- BE: 
- Firebase
+- Front-end web:
+<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
 
 
 
