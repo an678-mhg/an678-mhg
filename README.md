@@ -8,7 +8,7 @@ my dream is to become a front-end developer.
 ### Online project
 - PhimMoi: [https://phimmoizzz.netlify.app/](https://phimmoizzz.netlify.app/)
 - MyShop: [https://shopapp7.netlify.app/](https://shopapp7.netlify.app/)
-- Asocial: [https://a-social-app.netlify.app](https://a-social-app.netlify.app)
+- Asocial: [https://a-social-app.vercel.app](https://a-social-app.vercel.app)
 
 ### My CV
 - online: [https://an678-mhg.github.io/cv-nguyen_quoc_an/](https://an678-mhg.github.io/cv-nguyen_quoc_an/)
