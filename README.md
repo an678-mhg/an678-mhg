@@ -10,7 +10,7 @@ my dream is to become a front-end developer.
 - A-Tube: [https://a-tube.vercel.app/](https://a-tube.vercel.app/)
 
 ### My CV
-- online: [https://an678-mhg.github.io/cv-nguyen_quoc_an/](https://an678-mhg.github.io/cv-nguyen_quoc_an/)
+- online: [https://an678-mhg.github.io/Portfolio/](https://an678-mhg.github.io/Portfolio/)
 - pdf: [https://drive.google.com/file/d/1-XDUk_aNZ1IR96keaeYZohuP2fnGSWMX/view?usp=drive](https://drive.google.com/file/d/1-XDUk_aNZ1IR96keaeYZohuP2fnGSWMX/view?usp=drive)
 
 ### Skill
