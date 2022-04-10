@@ -9,9 +9,8 @@ my dream is to become a front-end developer.
 - PhimMoi: [https://phimmoizzz.netlify.app/](https://phimmoizzz.netlify.app/)
 - A-Tube: [https://a-tube.vercel.app/](https://a-tube.vercel.app/)
 
-### My CV
+### Portfolio
 - online: [https://an678-mhg.github.io/Portfolio/](https://an678-mhg.github.io/Portfolio/)
-- pdf: [https://drive.google.com/file/d/1-XDUk_aNZ1IR96keaeYZohuP2fnGSWMX/view?usp=drive](https://drive.google.com/file/d/1-XDUk_aNZ1IR96keaeYZohuP2fnGSWMX/view?usp=drive)
 
 ### Skill
 
