@@ -6,7 +6,7 @@ student, passionate about programming, especially web,
 my dream is to become a front-end developer.
 
 ### Portfolio
-- online: [https://an678-mhg.github.io/Portfolio/](https://an678-mhg.github.io/Portfolio/)
+- [https://an678-mhg.github.io/Portfolio/](https://an678-mhg.github.io/Portfolio/)
 
 ### Skill
 
