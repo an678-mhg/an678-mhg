@@ -1,6 +1,6 @@
 
 <div>
- <img src="https://res.cloudinary.com/annnn/image/upload/v1661687784/taoanhdep_cover_blackwhite_90971_qsxkys.jpg" />
+ <img src="https://res.cloudinary.com/annnn/image/upload/v1661995889/taoanhdep_anhbia_khoi_74114_tisdiz.jpg" />
 </div>
 
 ### My knowledge
