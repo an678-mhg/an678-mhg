@@ -26,8 +26,10 @@
 
 ### Git status:
 
-<img src="https://github-readme-stats.vercel.app/api?username=an678-mhg&theme=tokyonight&show_icons=true&count_private=true">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=an678-mhg&theme=tokyonight&layout=&langs_count=5">
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=an678-mhg&layout=compact&theme=tokyonight&langs_count=6" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=an678-mhg&show_icons=true&theme=tokyonight" height="165">
+</p>
 
 ### Contact me:
 
