@@ -3,7 +3,12 @@
  <img src="https://res.cloudinary.com/annnn/image/upload/v1661995889/taoanhdep_anhbia_khoi_74114_tisdiz.jpg" />
 </div>
 
-![profile-view](https://komarev.com/ghpvc/?username=an678-mhg)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=an678-mhg">
+  <img src="https://shields.io/github/stars/an678-mhg">
+  <img src="https://img.shields.io/github/followers/an678-mhg">
+  <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=Love%20coding&style=style=flat&color=red">
+</p>
 
 ### My knowledge
 
