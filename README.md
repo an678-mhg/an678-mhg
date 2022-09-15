@@ -3,6 +3,8 @@
  <img src="https://res.cloudinary.com/annnn/image/upload/v1661995889/taoanhdep_anhbia_khoi_74114_tisdiz.jpg" />
 </div>
 
+![profile-view](https://komarev.com/ghpvc/?username=an678-mhg)
+
 ### My knowledge
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
