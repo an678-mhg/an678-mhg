@@ -2,8 +2,6 @@
 
 ## Front End Developer
 
-Front End Developer with over 2 years of experience in developing user-friendly interfaces and collaborating on full-stack projects. ﻿Proficient in ReactJS, ExpressJS, and NestJS, with a strong background in building comprehensive ERP systems and optimizing internal tools for better efficiency.
-
 - 🌍  I'm based in Vietnam
 - 🖥️  See my portfolio at [Nguyen An](http://nqa.id.vn)
 - ✉️  You can contact me at [an567008@gmail.com](mailto:an567008@gmail.com)
