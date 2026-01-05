@@ -1,12 +1,11 @@
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Nguyen Quoc An
 
-## Front End Developer
+## Developer
 
 - 🌍  I'm based in Vietnam
-- 🖥️  See my portfolio at [Nguyen An](https://nqa.netlify.app/)
+- 🖥️  See my portfolio at [Nguyen An](https://nqa.is-a.dev/)
 - ✉️  You can contact me at [an567008@gmail.com](mailto:an567008@gmail.com)
-- 🚀  I'm a Developer at [VNETWORK](https://vnetwork.vn)
-- 🧠  I'm learning Golang
+- 🚀  I'm a Developer at [Devtify](https://devtify.vn)
 
 <a href="https://www.github.com/an678-mhg" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/an678-mhg?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
