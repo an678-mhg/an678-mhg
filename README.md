@@ -5,7 +5,7 @@
 - 🌍  I'm based in Vietnam
 - 🖥️  See my portfolio at [Nguyen An](https://nqa.is-a.dev/)
 - ✉️  You can contact me at [an567008@gmail.com](mailto:an567008@gmail.com)
-- 🚀  I'm a Developer at [Devtify](https://devtify.vn)
+- 🚀  I'm a Developer at [Devtify](https://devtify.com)
 
 <a href="https://www.github.com/an678-mhg" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/an678-mhg?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
